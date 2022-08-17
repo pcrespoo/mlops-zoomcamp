@@ -7,4 +7,4 @@ This repo contains all the material developed during the MLOps Bootcamp provided
 
 ### Topics
 - Module 1: MLOps introduction, Model Maturity
-- Module 2: in progress...
+- Module 2: MLflow tracking and Model Registry
